@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shoaibk242
-- 👀 I’m interested in Data analysis,App developement,Web developement
+- 👀 I’m interested in Bioniformatics,Genomic data analysis,App developement,Web developement
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Data analysis and Machine learning Projects
 - 📫 How to reach me shoaibk242@gmail.com
